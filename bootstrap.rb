@@ -27,6 +27,7 @@ package = [
  'jumpcut',
  'macdown',
  'pgadmin3',
+ 'reggy',
  'remote-desktop-connection',
  'sequel-pro',
  'skype',
