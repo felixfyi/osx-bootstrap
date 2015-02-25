@@ -26,6 +26,7 @@ package = [
  'iterm2',
  'jumpcut',
  'macdown',
+ 'packer',
  'pgadmin3',
  'reggy',
  'remote-desktop-connection',
